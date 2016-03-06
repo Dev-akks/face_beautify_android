@@ -1,4 +1,4 @@
-# Face Beautify Android
+# Face Beautify (Android)
 
 This is the android implementation of face image beautification.
 
