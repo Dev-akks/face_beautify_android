@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background = "@drawable/bg1">
+    
+	<TextView
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center"
+	    android:layout_marginBottom="5dp"
+	    android:layout_marginTop="50dp"
+	    android:text="“找你美”人脸美化应用"
+	    android:textColor="#000"
+	    android:textSize="25sp" />
+
+	<TextView
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center"
+	    android:layout_marginBottom="5dp"
+	    android:layout_marginLeft="55dp"
+	    android:layout_marginTop="5dp"
+	    android:text="---现代电设作品"
+	    android:textColor="#000"
+	    android:textSize="22sp" />
+
+	<TextView
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="20dp"
+	    android:layout_marginTop="80dp"
+	    android:text="制作：黄祖明 徐梓宁"
+	    android:textColor="#000"
+	    android:textSize="16sp" />
+	<TextView
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="20dp"
+	    android:layout_marginTop="10dp"
+	    android:text="班级：10级电联班"
+	    android:textColor="#000"
+	    android:textSize="16sp" />
+	<TextView
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="20dp"
+	    android:layout_marginTop="10dp"
+	    android:text="指导：邢晓芬老师  晋建秀老师 "
+	    android:textColor="#000"
+	    android:textSize="16sp" />
+
+	<Button
+	    android:id="@+id/enter_bt1"
+	    android:layout_width="200dip"
+	    android:layout_height="60dip"
+	    android:layout_marginBottom="50dp"
+	    android:layout_marginLeft="62dp"
+	    android:layout_marginRight="60dp"
+	    android:layout_marginTop="150dp"
+	    android:text="进入"
+	    android:textSize="18sp" />
+    
+</LinearLayout>

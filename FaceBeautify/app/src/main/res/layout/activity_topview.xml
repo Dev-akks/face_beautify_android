@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background = "@drawable/bg2"
+	>
+
+    <Button
+        android:id="@+id/topview_bt2"
+        android:layout_width="150dip"
+        android:layout_height="100dip"
+        android:layout_alignLeft="@+id/topview_bt1"
+        android:layout_below="@+id/topview_bt1"
+        android:layout_marginTop="71dp"
+        android:textSize="19sp"        
+        android:text="美化本地照片" />
+
+    <Button
+        android:id="@+id/topview_bt1"
+        android:layout_width="150dip"
+        android:layout_height="100dip"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp"
+        android:textSize="19sp"
+        android:text="拍照" />
+    
+</RelativeLayout>

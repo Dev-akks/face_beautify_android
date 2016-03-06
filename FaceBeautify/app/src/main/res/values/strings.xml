@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FaceBeautify</string>
+    <string name="action_settings">settings</string>
+    <string name="exit">退出</string>
+</resources>
